@@ -1,4 +1,4 @@
-package contests.c.Apr1;
+package contests.c.global.r20;
 
 import java.io.BufferedReader;
 import java.io.IOException;
